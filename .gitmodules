@@ -1,0 +1,3 @@
+[submodule "standesk"]
+	path = standesk
+	url = https://github.com/jsphpl/standesk
