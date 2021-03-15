@@ -1,3 +1,6 @@
 [submodule "standesk"]
 	path = standesk
 	url = https://github.com/jsphpl/standesk
+[submodule "sketch-chair"]
+	path = sketch-chair
+	url = https://github.com/DiatomStudio/SketchChair
